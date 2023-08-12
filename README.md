@@ -1,5 +1,8 @@
 # Dragon-NFTs Generator
 
+![](1_0_GIF_2%202.GIF)
+
+
 ## Overview
 Dragon-NFTs Generator is a Python-based tool designed to generate unique and vibrant backgrounds and assemble distinct parts of a Dragon to produce a comprehensive NFT-ready artwork. NFTs (Non-fungible Tokens) have opened up new avenues for digital artists to represent and monetize their artworks. However, the consistent and large-scale generation of these NFTs can be demanding. This generator uses generative coding techniques to expedite this process.
 
